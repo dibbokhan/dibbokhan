@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dibbokhan
+- 👋 Hi, I’m @dibbo
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html, css, Javascipt, bootstrap, node JS
 - 💞️ 
-- 📫 You can reach me by facebook.com/dibbok0
+- 📫 You can reach me by facebook.com/dibbok00
 
 <!---
 dibbokhan/dibbokhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
