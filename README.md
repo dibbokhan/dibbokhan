@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dibbo
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning html, css, Javascipt, bootstrap, node JS
-- 💞️ 
+- 💞️ Not interested!
 - 📫 You can reach me by facebook.com/dibbok00
 
 <!---
